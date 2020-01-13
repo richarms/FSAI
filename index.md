@@ -1,4 +1,4 @@
-# Fundamental Science in the era of AI
+# Fundamental Science in the AI Era
 
 In this ICLR workshop, we will explore the intersection of big science and AI and what it means to do good fundamental research in an era when AI is core to the way we as scientists interrogate and understand the physical world. The workshop will also examine how AI can enhance the social good of Big Science, relevant for the African continent given that the Square Kilometre Array (SKA), which will be one of the largest astronomical endeavors ever undertaken, will be majority hosted in Africa. In addition this workshop aims to stimulate discussion across astronomy, cosmology and particle physics. 
 

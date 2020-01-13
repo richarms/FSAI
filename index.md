@@ -1,4 +1,4 @@
-## Fundamental Science in the era of AI
+# Fundamental Science in the era of AI
 
 In this ICLR workshop, we will explore the intersection of big science and AI and what it means to do good fundamental research in an era when AI is core to the way we as scientists interrogate and understand the physical world. The workshop will also examine how AI can enhance the social good of Big Science, relevant for the African continent given that the Square Kilometre Array (SKA), which will be one of the largest astronomical endeavors ever undertaken, will be majority hosted in Africa. In addition this workshop aims to stimulate discussion across astronomy, cosmology and particle physics. 
 
@@ -16,20 +16,41 @@ Our belief is that this workshop can bring together machine learning experts and
 
 ### Proposed Schedule 
 
-09:15 AM	Opening remarks 
-09:30 AM	Rigorous and interpretable ML for fundamental science (Invited talk)
-10:00 AM	Contributed Talk(s)
-10:30 AM         Discussion - interpretability, bias and statistical rigour 
-11:00 AM	Poster Session #1 (Coffee Break)
-11:30 AM	“Unknown Unknowns” - discovering new classes and new laws (Invited talk)
-12:00 PM	Contributed Talk(s)
-12:30 PM	Discussion - “Unknown Unknowns”
-01:00 PM          LUNCH and Discussion
-02:00 PM	What is good science in the era of AI? Dangers and opportunities (Invited talk)
-02:30 PM	Contributed talk(s)
-02:50 PM	Discussion - What is good science in the era of AI?  
-03:15 PM          Poster Session #2 (Coffee Break)
-03:45 PM	Social Good through AI for Fundamental Science Research (Invited talk)
-04:15 PM 	Contributed Talks  
-04:45 PM	Discussion and Closing Remarks 
-05:30 PM 	End 
+- 09:15 AM	Opening remarks 
+- 09:30 AM	Rigorous and interpretable ML for fundamental science (Invited talk)
+- 10:00 AM	Contributed Talk(s)
+- 10:30 AM         Discussion - interpretability, bias and statistical rigour 
+- 11:00 AM	Poster Session #1 (Coffee Break)
+- 11:30 AM	“Unknown Unknowns” - discovering new classes and new laws (Invited talk)
+- 12:00 PM	Contributed Talk(s)
+- 12:30 PM	Discussion - “Unknown Unknowns”
+- 01:00 PM          LUNCH and Discussion
+- 02:00 PM	What is good science in the era of AI? Dangers and opportunities (Invited talk)
+- 02:30 PM	Contributed talk(s)
+- 02:50 PM	Discussion - What is good science in the era of AI?  
+- 03:15 PM          Poster Session #2 (Coffee Break)
+- 03:45 PM	Social Good through AI for Fundamental Science Research (Invited talk)
+- 04:15 PM 	Contributed Talks  
+- 04:45 PM	Discussion and Closing Remarks 
+- 05:30 PM 	End 
+
+### Diversity Statement 
+
+As an already diverse team who run most of our workshops in Africa, we are committed to nurturing talent and diversity in developing communities. We are experienced in accommodating diverse backgrounds to create an inclusive environment for all. Participants will be asked to sign a code of conduct agreeing to respect for all participants.  
+
+In addition we will select speakers for our workshop in a way that balances scientific excellence and diversity across gender, geography etc… with a focus on choosing people with an interest in forming diverse collaborations that include the developing world.  
+
+### Biographies of Organisers
+- Prof Bruce Bassett - Head of Data Science at the South African Radio Astronomical Observatory & Head of Cosmology at the African Institute for Mathematical Sciences, Cape Town, South Africa. Member of the Advisory Council of the International Astroinformatics Association and former Vice-President of the International Astrostatistics Association.  
+Bruce has organised or co-organised more than 30 international workshops & conferences and leads the team using deep learning and data science for the SKA in South Africa. His publications are available at: https://scholar.google.co.za/citations?hl=en&user=2lk4uDwAAAAJ&view_op=list_works&sortby=pubdate 
+- Dr Michelle Lochner - A young South African researcher with a joint position between the African Institute for Mathematical Sciences and the South African Radio Astronomical Observatory responsible for SKA in Africa. She is the founding director of the Supernova Foundation, https://supernovafoundation.org/, that provides mentorship for young women from the developing world in science. https://scholar.google.co.za/citations?hl=en&user=9AnikoEAAAAJ  
+
+- Dr. Nadeem Oozeer -  originally from Mauritius, Nadeem is a Senior Data Scientist at the South African Radio Astronomical Observatory working on the SKA in Africa and has organised more than 15 graduate workshops across Africa. His publications are available at:  https://scholar.google.co.za/citations?hl=en&user=2Rgt91gAAAAJ 
+
+- Dr Richard Armstrong - is a senior data scientist at the South African Radio Astronomy Observatory.
+The team of Nadeem, Richard and Michelle played a leading role in the scientific organisation of  the recent Big Data Africa School. 
+
+### Funding 
+Seed funding for the workshop will be available through the South African Radio Astronomical Observatory and the African Institute for Mathematical Sciences which will cover the travel and accommodation expenses for the organisers and one invited speaker.  Additional funding will be sought. 
+
+We expect we will need funding to support at least one additional speaker. Extra funds will be used to support geographic diversity and those coming from poorer nations. 

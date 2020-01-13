@@ -14,21 +14,29 @@ Our schedule is built around 4 sessions addressing two cultural & societal topic
 
 Our belief is that this workshop can bring together machine learning experts and astronomers and physicists doing fundamental research at a crucial time for science both worldwide and on the African continent. We aim to stimulate important new collaborations and networks and catalyse radical new ideas on a range of fundamental and important questions. 
 
+### Submissions
+
+Papers should be in anonymous ICLR style and up to 5 pages, with an unlimited number of pages for references and appendix. Accepted papers will be presented during our poster session and made available on the workshop website. Selected authors will be offered a 10 min talk at the workshop. This does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work at journals or conferences.
+
+
 ### Proposed Schedule 
 
 - 09:15 AM	Opening remarks 
 - 09:30 AM	Rigorous and interpretable ML for fundamental science (Invited talk)
 - 10:00 AM	Contributed Talk(s)
-- 10:30 AM         Discussion - interpretability, bias and statistical rigour 
+- 10:30 AM  Discussion - interpretability, bias and statistical rigour
 - 11:00 AM	Poster Session #1 (Coffee Break)
+
 - 11:30 AM	“Unknown Unknowns” - discovering new classes and new laws (Invited talk)
 - 12:00 PM	Contributed Talk(s)
 - 12:30 PM	Discussion - “Unknown Unknowns”
 - 01:00 PM          LUNCH and Discussion
+
 - 02:00 PM	What is good science in the era of AI? Dangers and opportunities (Invited talk)
 - 02:30 PM	Contributed talk(s)
 - 02:50 PM	Discussion - What is good science in the era of AI?  
 - 03:15 PM          Poster Session #2 (Coffee Break)
+
 - 03:45 PM	Social Good through AI for Fundamental Science Research (Invited talk)
 - 04:15 PM 	Contributed Talks  
 - 04:45 PM	Discussion and Closing Remarks 

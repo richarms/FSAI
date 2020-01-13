@@ -42,12 +42,13 @@ In addition we will select speakers for our workshop in a way that balances scie
 
 ### Biographies of Organisers
 - Prof Bruce Bassett - Head of Data Science at the South African Radio Astronomical Observatory & Head of Cosmology at the African Institute for Mathematical Sciences, Cape Town, South Africa. Member of the Advisory Council of the International Astroinformatics Association and former Vice-President of the International Astrostatistics Association.  
-Bruce has organised or co-organised more than 30 international workshops & conferences and leads the team using deep learning and data science for the SKA in South Africa. His publications are available at: https://scholar.google.co.za/citations?hl=en&user=2lk4uDwAAAAJ&view_op=list_works&sortby=pubdate 
+
 - Dr Michelle Lochner - A young South African researcher with a joint position between the African Institute for Mathematical Sciences and the South African Radio Astronomical Observatory responsible for SKA in Africa. She is the founding director of the Supernova Foundation, https://supernovafoundation.org/, that provides mentorship for young women from the developing world in science. https://scholar.google.co.za/citations?hl=en&user=9AnikoEAAAAJ  
 
 - Dr. Nadeem Oozeer -  originally from Mauritius, Nadeem is a Senior Data Scientist at the South African Radio Astronomical Observatory working on the SKA in Africa and has organised more than 15 graduate workshops across Africa. His publications are available at:  https://scholar.google.co.za/citations?hl=en&user=2Rgt91gAAAAJ 
 
 - Dr Richard Armstrong - is a senior data scientist at the South African Radio Astronomy Observatory.
+
 The team of Nadeem, Richard and Michelle played a leading role in the scientific organisation of  the recent Big Data Africa School. 
 
 ### Funding 
